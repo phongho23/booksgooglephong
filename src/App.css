@@ -1,0 +1,27 @@
+body {
+    background: grey;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 3;
+  padding: 10px;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+.results-list {
+    text-align: center;
+    text-emphasis-style: bold;
+}
+
+.searchForm {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
